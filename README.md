@@ -1,4 +1,4 @@
-### BloggingApp
+### BloggingApp For Multiple Users
 
 BloggingApp is a simple iOS application that allows users to write and read blog posts. The app utilizes Firebase Firestore for storing and retrieving blog data, and Firebase Authentication for user sign-in and sign-up. It showcases the integration of Firebase Firestore, Firebase Authentication, UITableView, and navigation controllers in a Swift-based iOS application.
 
